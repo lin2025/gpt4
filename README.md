@@ -23,6 +23,11 @@ Give a Star 🌟 if you like it.
 
 </div>
 
+
+👉 The GPT-4 project is a duplicate of the ChatGPT project, completely identical.
+
+👉 LinGPT - ChatGPT: https://github.com/lin2025/gpt3.5 
+
 [![English](https://img.shields.io/badge/English-Readme-success)](#lingpt-1)
 
 ## LinGPT
@@ -67,6 +72,10 @@ Give a Star 🌟 if you like it.
 ---
 
 ###
+
+👉 GPT-4 项目是基于 ChatGPT 项目的的一个拷贝，完全相同。 
+
+👉 LinGPT - ChatGPT: https://github.com/lin2025/gpt3.5 
 
 [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Readme-success)](#lingpt-2)
 
