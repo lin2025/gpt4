@@ -23,7 +23,7 @@ Give a Star 🌟 if you like it.
 
 </div>
 
-[![English](https://img.shields.io/badge/English-Readme-success)](#lingpt)
+[![English](https://img.shields.io/badge/English-Readme-success)](#lingpt-1)
 
 ## LinGPT
  - LinGPT is a lightweight single-page chat application that can be deployed statically, with no need for a server.
