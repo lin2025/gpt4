@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/lin2025/LinGPT-gpt4/"><img height="22" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-  <a href="https://gitee.com/lin2025/LinGPT-gpt4/"><img height="22" src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"></a>
+  <a href="https://gitee.com/lin2025/lingpt-gpt4/"><img height="22" src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"></a>
 </p>
 
 [Demo](https://lin2025.github.io/LinGPT-gpt4/) • 
@@ -41,7 +41,7 @@ Give a Star 🌟 if you like it.
 
 ## Demo
 
-[https://lin2025.github.io/LinGPT-gpt4/](https://lin2025.github.io/LinGPT-gpt4/)
+[https://lin2025.github.io/LinGPT-gpt4/](https://lin2025.github.io/lingpt-gpt4/)
 
 
 ## Features
@@ -94,7 +94,7 @@ Give a Star 🌟 if you like it.
 
  :globe_with_meridians:线路 Github: [https://lin2025.github.io/LinGPT-gpt4/](https://lin2025.github.io/LinGPT-gpt4/)
 
- :cn:线路 Gitee: [https://lin2025.gitee.io/LinGPT-gpt4/](https://lin2025.gitee.io/LinGPT-gpt4/)
+ :cn:线路 Gitee: [https://lin2025.gitee.io/lingpt-gpt4/](https://lin2025.gitee.io/lingpt-gpt4/)
 
  :cn:多种下载方式（含网盘）: [https://lin2025.gitee.io/#gpt3.5-code](https://lin2025.gitee.io/#gpt3.5-code)
 
