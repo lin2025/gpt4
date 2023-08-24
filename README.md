@@ -24,7 +24,7 @@ Give a Star 🌟 if you like it.
 </div>
 
 
-👉 The GPT-4 project is a duplicate of the ChatGPT project, completely identical.
+👉 The GPT-4 repository is a duplicate of the ChatGPT repository, completely identical.
 
 👉 LinGPT - ChatGPT: https://github.com/lin2025/gpt3.5 
 
@@ -73,7 +73,7 @@ Give a Star 🌟 if you like it.
 
 ###
 
-👉 GPT-4 项目是基于 ChatGPT 项目的的一个拷贝，完全相同。 
+👉 GPT-4 仓库是基于 ChatGPT 仓库的一个拷贝，完全相同。 
 
 👉 LinGPT - ChatGPT: https://github.com/lin2025/gpt3.5 
 
