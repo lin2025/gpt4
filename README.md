@@ -48,6 +48,7 @@ Give a Star 🌟 if you like it.
 
 > This code does not use streaming response, GPT will generate the complete response text at once.
 
+ - **New Features**: Contextual mode.
  - **New Features**: Support for third-party API keys, optimized for compatibility with third-party proxy platforms.
  - **New Features**: Support for all models of GPT-3.5 and GPT-4.
  - **New Features**: Supports Automatic Retry (intelligently determines whether to retry when a request fails).
@@ -58,7 +59,7 @@ Give a Star 🌟 if you like it.
  - Smart max_tokens (Automatically adjusts the max_tokens)
  - API key, OpenAI API balance inquiry, custom API endpoint, custom API requests (model, max_tokens, temperature, top_p, presence_penalty, frequency_penalty.).
  - Markdown support (code block, syntax highlighting, displaying images, displaying tables, article formatting, etc.).
- - system prompt, context mode, token statistics, one-click copy, automatic parsing of OpenAI error codes, function help.
+ - system prompt, token statistics, one-click copy, automatic parsing of OpenAI error codes, function help.
  - Undo, Retry, Clear Context, and supporting keyboard shortcuts.
  - Supports English and Chinese-Simplified, custom avatars (supports Upload Avatar), custom style (font size, WeChat-style time format, message time, distinguishing multi-turn contexts, etc.).
  - Single-round chat history, all chat history, and operation history can be exported in Markdown format, supporting export as `.md` and `.txt`.
@@ -66,6 +67,7 @@ Give a Star 🌟 if you like it.
 
 ## Updates   
 
+- **August 28th** Added Contextual mode.
 - **August 21st** 1) Upgraded to support GPT-4 model. 2) Supports third-party API keys (reverse proxy service providers).
 
 
@@ -103,6 +105,8 @@ Give a Star 🌟 if you like it.
 
 > GPT生成回复采用一次性返回，非流式响应，互交体验会降低，但也有优点 - 不会中断、内容多时响应快
 
+ - **新功能**: 记忆模式 (上下文模式)
+
  - **新功能**: 支持第三方平台的专用Key，适配部分第三方代理平台 (api2d、next-web、openai-sb、aiproxy、openaimax、aigc2d、api2gpt、chatai、closeai、ohmygpt、aiayw、czl...)
 				
  - **新功能**: 适配最新模型，支持 GPT-3.5、GPT-4 全部模型
@@ -123,7 +127,7 @@ Give a Star 🌟 if you like it.
 
  - 支持Markdown（代码块、高亮代码、显示网络图片、显示表格、文章排版)
 
- - 系统提示词、上下文记忆模式、token统计、一键复制、自动解析OpenAI 错误代码、功能帮助
+ - 系统提示词、Token用量统计、一键复制、自动解析OpenAI 错误代码、功能帮助
 
  - 清空、撤销、重问，并支持快捷键
 
@@ -144,4 +148,5 @@ Give a Star 🌟 if you like it.
 
 ## 更新   
 
+- **8月28日** 新增 记忆模式 (上下文模式)。
 - **8月21日** 1) 升级支持 GPT-4；2) 支持第三方API Key，适配第三方代理平台。
